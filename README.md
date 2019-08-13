@@ -1,1 +1,3 @@
-# docker-rabbitMQ
+# RabbitMQ
+
+RabbitMQ docker setup files
